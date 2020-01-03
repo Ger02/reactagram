@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import UserProfilePage from './UserProfilePage';
 
 const imgStyle = {
-  height: '200px',
+  height: '25vh',
   width: '200px',
   borderRadius: '50%',
   display: 'flex',
