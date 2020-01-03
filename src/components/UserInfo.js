@@ -6,7 +6,9 @@ import UserProfilePage from './UserProfilePage';
 const imgStyle = {
   height: '200px',
   width: '200px',
-  borderRadius: '50%'
+  borderRadius: '50%',
+  display: 'flex',
+  justifyContent: 'center'
 };
 
 function UserInfo(props) {
